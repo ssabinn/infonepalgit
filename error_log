@@ -1,0 +1,552 @@
+[22-Dec-2013 23:58:09] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 01:01:40] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 01:02:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 02:37:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 02:38:15] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:42:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:50:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:50:58] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:51:06] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:33] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:36] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:36] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:36] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:40] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:40] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:40] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:41] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:41] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:41] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:41] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:53:41] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:54:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:59:12] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:59:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:59:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:59:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:59:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:59:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 03:59:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:02:23] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:03:20] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:06:06] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:08:09] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:30:55] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:31:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:35:32] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:36:12] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:42:10] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:42:13] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:42:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
+[23-Dec-2013 04:45:47] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home2/infonepa/public_html/application/libraries/Rssparser.php:89
+Stack trace:
+#0 /home2/infonepa/public_html/application/libraries/Rssparser.php(89): SimpleXMLElement->__construct('<html><head><sc...')
+#1 /home2/infonepa/public_html/application/libraries/Rssparser.php(186): RSSParser->parse()
+#2 /home2/infonepa/public_html/application/modules/rss_reader/controllers/rss_reader.php(24): RSSParser->getFeed(5)
+#3 /home2/infonepa/public_html/application/modules/template/controllers/template.php(23): Rss_reader->get_rss()
+#4 /home2/infonepa/public_html/application/modules/custompage/controllers/custompage.php(31): Template->home_page(Array)
+#5 [internal function]: Custompage->index()
+#6 /home2/infonepa/public_html/system/core/CodeIgniter.php(359): call_user_func_array(Array, Array)
+#7 /home2/infonepa/public_html/index.php(202): require_once('/home2/infonepa...')
+#8 {main}
+  thrown in /home2/infonepa/public_html/application/libraries/Rssparser.php on line 89
